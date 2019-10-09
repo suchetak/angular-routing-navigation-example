@@ -2,7 +2,7 @@
   "name": "angular-routing",
   "version": "0.0.0",
   "scripts": {
-    "preinstall": "npm i -g http-server && npm i -g @angular/cli",
+    "preinstall": "npm i -g http-server && npm i -g @angular/cli && npm update",
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
